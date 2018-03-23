@@ -1,2 +1,3 @@
 # Online-News-Virality-Prediction
-PRedicting Mashable.com content shares
+Predicting Mashable.com content shares
+Used SVM in multicore parallel processing, classification trees and boosting on classification trees.
